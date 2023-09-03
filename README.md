@@ -10,4 +10,4 @@ I implemented tests using xUnit, simple instanciations and simple expects.
 
 Since this Kata is all about the thinking process of how products are sold using difference price advantages, chatGPT helped providing an explanation for these selling advantages.
 
-Another thing I need to implement is using a combination or IPriceAdvantages at the same time at a certain order. It isn't a practical use case, but in fact this code needs new ideas to make its implementation more correct and approaching real usage.
+Another thing I need to implement is using a combination or IPriceAdvantages at the same time in a certain order. But maybe, it isn't a practical use case, this project needs to be discussed, but in fact this code needs new ideas to make its implementation more correct and approaching real usage.
